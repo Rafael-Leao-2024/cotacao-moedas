@@ -53,15 +53,15 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
 
 ## Uso
-###Consulta de Cotação de Moeda
+Consulta de Cotação de Moeda
 - Selecione a moeda desejada na lista suspensa.
 - Escolha a data desejada no calendário.
 - Clique no botão "Pegar Cotação" para obter a cotação da moeda na data escolhida.
-###Atualização de Cotações em Massa
+Atualização de Cotações em Massa
 - Selecione um arquivo Excel que contenha uma lista de moedas.
 - Escolha uma data inicial e final.
 - Clique em "Atualizar Cotação" para buscar e preencher as cotações das moedas no arquivo.
-###Exemplo de Arquivo Excel
+Exemplo de Arquivo Excel
 - O arquivo Excel deve conter uma coluna com os códigos das moedas (por exemplo, USD, EUR, etc.):
 
 Moeda
