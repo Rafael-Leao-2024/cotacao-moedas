@@ -22,7 +22,7 @@ Este projeto é uma ferramenta de cotação de moedas desenvolvida em Python uti
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/seu-usuario/cotacao-moedas.git
 ```
 ## Ferramenta de Cotação de Moedas
 
@@ -42,15 +42,6 @@ Este projeto é uma ferramenta de cotação de moedas desenvolvida em Python uti
 - **Pandas:** Para manipulação de dados em planilhas Excel.
 - **NumPy:** Para cálculos e manipulação de arrays numéricos.
 - **AwesomeAPI:** Para obter as cotações das moedas.
-
-## Instalação
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-```
 
 ## Uso
 Consulta de Cotação de Moeda
