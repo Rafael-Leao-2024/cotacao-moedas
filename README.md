@@ -23,8 +23,8 @@ Este projeto é uma ferramenta de cotação de moedas desenvolvida em Python uti
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
-
-# Ferramenta de Cotação de Moedas
+```
+## Ferramenta de Cotação de Moedas
 
 Este projeto é uma ferramenta de cotação de moedas desenvolvida em Python utilizando a biblioteca Tkinter para interface gráfica. O programa permite consultar cotações de moedas específicas e atualizar cotações em massa a partir de um arquivo Excel, utilizando a API do [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas) para obter as informações.
 
@@ -50,8 +50,9 @@ Este projeto é uma ferramenta de cotação de moedas desenvolvida em Python uti
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
+```
 
-Uso
+## Uso
 Consulta de Cotação de Moeda
 Selecione a moeda desejada na lista suspensa.
 Escolha a data desejada no calendário.
