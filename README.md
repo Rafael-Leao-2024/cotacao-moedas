@@ -22,7 +22,7 @@ Este projeto é uma ferramenta de cotação de moedas desenvolvida em Python uti
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/cotacao-moedas.git
+git clone https://github.com/Rafael-Leao-2024/cotacao-moedas.git
 ```
 ## Ferramenta de Cotação de Moedas
 
